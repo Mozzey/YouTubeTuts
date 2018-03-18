@@ -70,7 +70,7 @@ html, body {
 }
 
 @media(max-width: 568px){
-	.pimg1, .pimg2, .pimg3 {
+	.pimg1, .pimg2,li .pimg3 {
 		background-attachment: scroll;
 	}
 }
